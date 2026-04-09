@@ -18,9 +18,7 @@
 
 Junior developer completing a Full Stack Developer diploma at **Mission Ready HQ** in New Zealand.
 
-I build things because the problems genuinely interest me — not because a course told me to. No CS degree, no bootcamp pedigree. Just a stubborn refusal to stop building.
-
-My instinct is always toward things that actually run. Not demos. Not tutorials. Deployed software.
+I build things because the problems genuinely interest me.
 
 ---
 
