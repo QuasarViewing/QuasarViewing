@@ -16,9 +16,7 @@
 
 ## About Me
 
-Junior developer completing a Full Stack Developer diploma at **Mission Ready HQ** in New Zealand.
-
-I build things because the problems genuinely interest me.
+Junior developer, Been working with python on and off for 10+ years.  
 
 ---
 
