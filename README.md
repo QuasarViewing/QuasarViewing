@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jonathan+%F0%9F%91%8B;Junior+Developer+%7C+Taupo%2C+NZ;Building+things+that+actually+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jay+%F0%9F%91%8B;Junior+Developer+%7C+Taupo%2C+NZ;Building+things+that+actually+work." alt="Typing SVG" />
 
 <br/>
 
@@ -30,6 +30,15 @@ I build things because the problems genuinely interest me.
 A Discord bot with two slash commands that fetches real-time Islamic prayer times by city and country. Supports multiple calculation methods and both Shafi and Hanafi madhab options. Timezone-aware — correctly calculates the next upcoming prayer based on local time.
 
 [![Repo](https://img.shields.io/badge/GitHub-Discord--Prayer--Bot-1a3a5c?style=flat-square&logo=github)](https://github.com/QuasarViewing/Discord-Prayer-Bot)
+
+---
+
+### 🧬 Alfred — Personal AI Agent
+> Python · FastAPI · Claude API · SQLite · ChromaDB · OAuth 2.0 · Whisper · Kokoro
+
+A personal AI agent built to help with executive dysfunction and daily life management. Alfred runs a full agentic tool-calling loop — Claude requests tools, Python executes them, results feed back, final response streams to the frontend. Dual memory system using SQLite for structured data and ChromaDB for semantic retrieval. Integrated with Google Calendar and Gmail via OAuth 2.0. Local voice pipeline using Whisper for speech-to-text and Kokoro for text-to-speech.
+
+> 🔒 Private repository
 
 ---
 
