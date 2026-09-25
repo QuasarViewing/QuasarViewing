@@ -35,44 +35,6 @@ A Discord bot with two slash commands that fetches real-time Islamic prayer time
 > Python · FastAPI · Claude API · SQLite · ChromaDB · OAuth 2.0 · Whisper · Kokoro
 
 A personal AI agent built to help with executive dysfunction and daily life management. Alfred runs a full agentic tool-calling loop — Claude requests tools, Python executes them, results feed back, final response streams to the frontend. Dual memory system using SQLite for structured data and ChromaDB for semantic retrieval. Integrated with Google Calendar and Gmail via OAuth 2.0. Local voice pipeline using Whisper for speech-to-text and Kokoro for text-to-speech.
-
-> 🔒 Private repository
-
----
-
-### 🧠 Tina — AI Insurance Chatbot
-> JavaScript · Gemini API · Node.js · Docker · nginx
-
-An AI insurance consultant for Turners Car Insurance. Tina asks customers short questions about their vehicle and recommends the right product — enforcing hard business rules. She will never recommend MBI for a truck, and never recommend Comprehensive for a car over 10 years old. Split frontend/backend Docker architecture with the API key secured server-side.
-
----
-
-### 🎤 Job Interview Practice App
-> JavaScript · Gemini API · HTML · CSS
-
-An AI-powered interview simulator. Enter a job title, get role-specific questions that adapt to your previous answers. After 6+ questions, type "end interview" to receive a detailed performance assessment with a rating out of 10.
-
----
-
-### 🔍 Z Energy Petrol Price API
-> Node.js · Express · MongoDB · Mongoose · Commander
-
-A CLI seed tool and keyword search API backed by a local MongoDB database. Run `--seed` to insert petrol price records, `--clear` to wipe them. Search with `?q=diesel` and get back only matching results.
-
----
-
-### 🚗 Azure Vehicle Recognition App
-> React · Azure Computer Vision API
-
-Upload a photo of a vehicle and Azure Computer Vision identifies what it is. Filters Azure's full tag response down to vehicle-specific results with confidence scores.
-
----
-
-### 📊 Claim History Risk Rating API
-> Node.js · Express · Jest · TDD
-
-A REST API that scores insurance claim history text from 1 to 5 based on accident keyword frequency. Built using Test Driven Development — tests written first, implementation second.
-
 ---
 
 ## Tech Stack
